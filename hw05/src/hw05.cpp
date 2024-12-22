@@ -34,5 +34,4 @@ VecOfStr hw05(const VecOfStr& strings)
   }
 
   return Denisiki_polyndroms;
-
 }
